@@ -1,1 +1,1 @@
-# imersaodev-supertrunfo
+Neste programa, o foco foi nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
